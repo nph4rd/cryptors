@@ -1,2 +1,2 @@
 # cryptors
-Cyptographic experiments in Rust
+An introduction to cryptography with Rust
