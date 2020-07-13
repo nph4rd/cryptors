@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "doc"
 title = "Cryptors"
+
+[output.html]
+mathjax-support = true
