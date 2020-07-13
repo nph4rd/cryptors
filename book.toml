@@ -3,4 +3,4 @@ authors = ["Arturo Marquez Flores"]
 language = "en"
 multilingual = false
 src = "doc"
-rorle = "Cryptors"
+title = "Cryptors"
