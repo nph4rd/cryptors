@@ -1,4 +1,4 @@
-# Chapter 1 - Private Key Cryptography
+# Chapter 1 - Basic Concepts
 
 
 
