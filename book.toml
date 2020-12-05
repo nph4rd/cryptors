@@ -1,9 +1,0 @@
-[book]
-authors = ["Arturo Marquez Flores"]
-language = "en"
-multilingual = false
-src = "doc"
-title = "Cryptors"
-
-[output.html]
-mathjax-support = true
